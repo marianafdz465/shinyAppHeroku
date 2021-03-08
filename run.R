@@ -1,6 +1,6 @@
 ##************************************************************************
 ## Script Name: run.R
-## Purpose:
+## Purpose: Run with Heroku
 ##
 ##
 ## Created:
