@@ -1,6 +1,6 @@
 ##************************************************************************
 ## Script Name: run.R
-## Purpose: Run with Heroku
+## Purpose: Run with Herokug
 ##
 ##
 ## Created:
@@ -14,7 +14,6 @@
 
 
 library(shiny)
-
 port <- Sys.getenv('PORT')
 
 shiny::runApp(
